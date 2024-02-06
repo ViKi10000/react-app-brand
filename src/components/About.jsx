@@ -6,7 +6,7 @@ function About() {
         <div className='max-w-[1240px] mx-auto'>
             <div className='text-center'>
                 <h2 className='text-5xl font-bold'>Trusted by developers across the world.</h2>
-                <p className='text-3xl py-6 text-gray-500'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, sapiente ut. Quae iusto illo a ipsa dicta reiciendis debitis, amet inventore vel aut provident eius nostrum dolorum praesentium exercitationem facere!</p>
+                <p className='text-3xl py-6 text-gray-500'>Among the industry’s leading cloud management platform tools, Flexera’s comprehensive Cloud Management Platform (CMP) provides a rich set of capabilities for discovery, template-based provisioning, orchestration and automation; operational monitoring and management; governance; and cost optimization across multiple public and private clouds as well as virtual and bare-metal servers.</p>
             </div>
 
             <div className='grid md:grid-cols-3 gap-10 px-2 text-center'>

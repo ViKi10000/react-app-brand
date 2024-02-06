@@ -10,7 +10,7 @@ function Pricing() {
             <div className='text-center py-8 text-slate-300'>
                 <h2 className='text-3xl'>PRICING</h2>
                 <h3 className='text-5xl text-white font-bold py-8'>The right price for your research.</h3>
-                <p className='text-3xl'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque quam quaerat natus fugiat dolore nisi dolorum reiciendis architecto similique voluptates.</p>
+                <p className='text-3xl'>Avenga is a global technology partner for pharma and life sciences companies looking to gain or retain a competitive advantage by redefining the meaning of high-quality products and services..</p>
             </div>
 
             <div className='grid md:grid-cols-2'>

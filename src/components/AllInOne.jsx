@@ -10,7 +10,7 @@ function AllInOne() {
 
         <div>
           <h2 className='text-5xl font-bold text-center'>All-In-One Platform</h2>
-          <p className='text-2xl py-8 text-gray-500 text-center'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, iure at. Praesentium quidem ipsum ratione cumque quia quisquam.</p>
+          <p className='text-2xl py-8 text-gray-500 text-center'>Avenga’s data services provide essential access to high-quality data integration and storage solutions. As a trusted provider, we offer robust cloud data services and a top-tier data service center, equipping developers with the necessary resources. Our focus on analytics and AI empowers your organization to become insight-driven, leveraging the full potential of cloud solutions for effective data management.</p>
         </div>
 
         <div className='grid sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-4'>
